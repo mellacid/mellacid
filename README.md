@@ -6,7 +6,8 @@ I am an aspiring web developer, passionate about creating dynamic and user-frien
 
 ### Skills 
 
-- Will update soon
+- HTML & CSS
+- JavaScript
 
 ### Projects
 
@@ -14,9 +15,10 @@ Coming soon ...
 
 ### Currently Learning
 
-- GitHub
+- JavaScript Modules
 
 ### Fun Fact
+- I play videogames and am a (currently inactive) streamer on one of the biggest video live streaming service. 
 
 
 

@@ -10,6 +10,7 @@ I am an aspiring web developer, passionate about creating dynamic and user-frien
 - JavaScript (react, express.js, node.js)
 - MongoDB
 - Git/GitHub
+- Backend
 
 ### Projects
 
@@ -19,12 +20,12 @@ https://github.com/mellacid/topraks-frittenshop
 #### Toprakverse
 https://github.com/odesseyoracle/toprakverse
 
-### Currently Learning
+### Currently Working on
 
-- Backend-Development
+- Final Project at DCI
 
 ### Fun Fact
-- I play videogames and am a (currently inactive) streamer on one of the biggest video live streaming service. 
+- I play videogames and am a streamer on one of the biggest video live streaming service. 
 
 
 

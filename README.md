@@ -22,7 +22,7 @@ https://github.com/odesseyoracle/toprakverse
 
 ### Currently Working on
 
-- Final Project at DCI
+- https://github.com/mellacid/finalproject
 
 ### Fun Fact
 - I play videogames and am a streamer on one of the biggest video live streaming service. 
